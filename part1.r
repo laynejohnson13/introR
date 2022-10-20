@@ -1,4 +1,3 @@
-###THIS WAS THE FIRST ASSIGNMENT BEFORE REASSIGNED ON 10/19
 
 #####Example1.1
 # Intro to R Lesson
